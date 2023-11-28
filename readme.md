@@ -36,8 +36,3 @@ python eval.py --test_data_path=/tmp/images/ --gpu_list=0 --checkpoint_path=/tmp
 ```
 
 a text file will be then written to the output path.
-
-### Troubleshooting
-+ How to compile lanms on Windows ?
-  + See https://github.com/argman/EAST/issues/120
-s
